@@ -1,0 +1,7 @@
+     Temperature     Wind Speed     Dew Point     Wind Chill     Cloud Base     Cloud Type
+-----------------------------------------------------------------------------------------------
+      42.00 dF        6.00 MPH       40.00 dF      38.14 dF       454.55 ft        Low    
+      15.00 dF        6.00 MPH       40.00 dF       5.98 dF         0.00 ft        Low    
+      32.00 dF        6.00 MPH      -50.00 dF      26.23 dF    18,636.36 ft        High   
+      15.00 dF        6.00 MPH      -50.00 dF       5.98 dF    14,772.73 ft       Medium  
+
