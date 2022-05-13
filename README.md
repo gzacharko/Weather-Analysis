@@ -3,4 +3,4 @@ Repository for my "Weather Data Analysis Project" for my "Advanced Programming W
 
 ***Please read the "Weather Data Project Main Design Document" to see this Project's implemenation.***
 
-There is an executable JAR file included so you can easily run the program.
+There is an executable JAR file included so you can easily run the program, but please download all of the files and keep them all in the same folder if you are going to use the JAR file, so that it runs properly.
